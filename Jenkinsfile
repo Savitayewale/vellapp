@@ -2,11 +2,11 @@ pipeline
     { 
    agent 
 		    {
-		      label 'Built-in'
+		      label 'built-in'
 
 		    }
 	    
-       }
+       
       stages
         {
         stage('stage-1')
