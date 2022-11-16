@@ -14,7 +14,7 @@ pipeline
 
               steps
                {
-            echo "hello 22q1 "
+            echo "hello 22q2 "
                 }
             }
         }
